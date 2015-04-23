@@ -3298,7 +3298,7 @@
 		<word id="9" form="c" lemma="que1" postag="c--------" head="18" relation="AuxY"/>
 		<word id="10" form="ne" lemma="ne1" postag="d--------" head="13" relation="AuxZ"/>
 		<word id="11" form="tibi" lemma="tu1" postag="p-s---md-" head="16" relation="ATR"/>
-		<word id="12" form="praeteritos" lemma="praetereo1" postag="v-prpama-" head="16" relation="ATR"/>
+		<word id="12" form="praeteritos" lemma="praetereo1" postag="v-prppma-" head="16" relation="ATR"/>
 		<word id="13" form="passa" lemma="patior1" postag="v-srppfn-" head="18" relation="PRED_CO"/>
 		<word id="14" form="est" lemma="sum1" postag="v3spia---" head="13" relation="AuxV"/>
 		<word id="15" form="succedere" lemma="succedo1" postag="v--pna---" head="13" relation="OBJ"/>
@@ -3719,7 +3719,7 @@
 		<word id="2" form="non" lemma="non1" postag="d--------" head="10" relation="AuxZ"/>
 		<word id="3" form="sic" lemma="sic1" postag="d--------" head="10" relation="ADV"/>
 		<word id="4" form="Ithaci" lemma="Ithacus1" postag="a-s---mg-" head="5" relation="ATR"/>
-		<word id="5" form="degressu" lemma="degredior1" postag="--s-u--b-" head="6" relation="OBJ"/>
+		<word id="5" form="degressu" lemma="degredior1" postag="n-s---mb-" head="6" relation="OBJ"/>
 		<word id="6" form="mota" lemma="moveo1" postag="v-srppfn-" head="7" relation="ATR"/>
 		<word id="7" form="Calypso" lemma="Calypso1" postag="n-s---fn-" head="10" relation="SBJ"/>
 		<word id="8" form="desertis" lemma="desertus1" postag="a-p---nb-" head="11" relation="ATR"/>
@@ -3837,7 +3837,7 @@
 		<word id="8" form="tu" lemma="tu1" postag="p-s---fn-" head="11" relation="SBJ"/>
 		<word id="9" form="quoque" lemma="quoque1" postag="d--------" head="8" relation="AuxZ"/>
 		<word id="10" form="uti" lemma="uti1" postag="c--------" head="4" relation="AuxC"/>
-		<word id="11" form="fieres" lemma="fio1" postag="v2s-sa---" head="10" relation="ADV"/>
+		<word id="11" form="fieres" lemma="fio1" postag="v2sisa---" head="10" relation="ADV"/>
 		<word id="12" form="nobilis" lemma="nobilis1" postag="a-s---fn-" head="13" relation="ATR"/>
 		<word id="13" form="historia" lemma="historia1" postag="n-s---fn-" head="11" relation="PNOM"/>
 	</sentence>
@@ -4830,7 +4830,7 @@
 		<word id="26" form="tua" lemma="tuus1" postag="a-p---nn-" head="28" relation="ATR"/>
 		<word id="27" form="flendo" lemma="fleo1" postag="v-spgpnb-" head="30" relation="ADV"/>
 		<word id="28" form="lumina" lemma="lumen1" postag="n-p---nn-" head="31" relation="SBJ"/>
-		<word id="29" form="deiectis" lemma="deicio1" postag="v-prpafb-" head="31" relation="ADV"/>
+		<word id="29" form="deiectis" lemma="deicio1" postag="v-prppfb-" head="31" relation="ADV"/>
 		<word id="30" form="turpia" lemma="turpis1" postag="a-p---nn-" head="31" relation="PNOM"/>
 		<word id="31" form="sint" lemma="sum1" postag="v3ppsa---" head="25" relation="ADV_CO"/>
 		<word id="32" form="lacrimis" lemma="lacrima1" postag="n-p---fb-" head="29" relation="SBJ"/>
@@ -5415,7 +5415,7 @@
 		<word id="13" form="," lemma="comma1" postag="u--------" head="14" relation="AuxX"/>
 		<word id="14" form="et" lemma="et1" postag="c--------" head="3" relation="COORD"/>
 		<word id="15" form="iam" lemma="jam1" postag="d--------" head="17" relation="ADV"/>
-		<word id="16" form="praeteritis" lemma="praetereo1" postag="v-prpafb-" head="22" relation="ADV"/>
+		<word id="16" form="praeteritis" lemma="praetereo1" postag="v-prppfb-" head="22" relation="ADV"/>
 		<word id="17" form="labentem" lemma="labor1" postag="v-sppafa-" head="22" relation="ADV"/>
 		<word id="18" form="Athamantidos" lemma="Athamantis1" postag="n-s---fg-" head="19" relation="ATR"/>
 		<word id="19" form="undis" lemma="unda1" postag="n-p---fb-" head="16" relation="SBJ"/>

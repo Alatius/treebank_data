@@ -4656,7 +4656,7 @@
         <word id="7" form="," lemma="comma1" postag="u--------" head="8" relation="AuxX" cite=""/>
         <word id="8" form="ut" lemma="ut1" postag="c--------" head="6" relation="AuxC" cite="urn:cts:latinLit:phi0959.phi006:1.604"/>
         <word id="9" form="quae" lemma="qui1" postag="p-p---fn-" head="13" relation="SBJ" cite="urn:cts:latinLit:phi0959.phi006:1.604"/>
-        <word id="10" form="deprensi" lemma="deprendo" postag="v--rppmg-" head="15" relation="ATR" cite="urn:cts:latinLit:phi0959.phi006:1.605"/>
+        <word id="10" form="deprensi" lemma="deprendo" postag="v-srppmg-" head="15" relation="ATR" cite="urn:cts:latinLit:phi0959.phi006:1.605"/>
         <word id="11" form="totiens" lemma="totiens1" postag="d--------" head="10" relation="ADV" cite="urn:cts:latinLit:phi0959.phi006:1.605"/>
         <word id="12" form="iam" lemma="jam1" postag="d--------" head="13" relation="ADV" cite="urn:cts:latinLit:phi0959.phi006:1.605"/>
         <word id="13" form="nosset" lemma="nosco1" postag="v3slsa---" head="8" relation="ADV" cite="urn:cts:latinLit:phi0959.phi006:1.605"/>

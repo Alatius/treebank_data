@@ -1978,7 +1978,7 @@
 		<word id="7" form="ministerium" lemma="ministerium1" postag="n-s---na-" head="3" relation="ExD_PA"/>
 		<word id="8" form="," lemma="comma1" postag="u--------" head="7" relation="AuxX"/>
 		<word id="9" form="et" lemma="et1" postag="c--------" head="0" relation="COORD"/>
-		<word id="10" form="subiectam" lemma="subjacio1" postag="v-srpafa-" head="15" relation="ATR"/>
+		<word id="10" form="subiectam" lemma="subjacio1" postag="v-srppfa-" head="15" relation="ATR"/>
 		<word id="11" form="more" lemma="mos1" postag="n-s---mb-" head="13" relation="ADV"/>
 		<word id="12" form="parentum" lemma="parens2" postag="n-p---mg-" head="11" relation="ATR"/>
 		<word id="13" form="aversi" lemma="averto1" postag="v-prppmn-" head="14" relation="ADV"/>
@@ -2713,7 +2713,7 @@
 		<word id="8" form="," lemma="comma1" postag="u--------" head="7" relation="APOS"/>
 		<word id="9" form="matres" lemma="mater1" postag="n-p---fn-" head="25" relation="SBJ_CO"/>
 		<word id="10" form="atque" lemma="atque1" postag="c--------" head="25" relation="AuxY"/>
-		<word id="11" form="viri" lemma="vir1" postag="n-s---mn-" head="25" relation="SBJ_CO"/>
+		<word id="11" form="viri" lemma="vir1" postag="n-p---mn-" head="25" relation="SBJ_CO"/>
 		<word id="12" form="," lemma="comma1" postag="u--------" head="25" relation="AuxX"/>
 		<word id="13" form="que" lemma="que1" postag="c--------" head="25" relation="AuxY"/>
 		<word id="14" form="defuncta" lemma="defungor1" postag="v-prppnn-" head="15" relation="ATR"/>

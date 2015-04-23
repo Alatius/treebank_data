@@ -25,7 +25,7 @@
         <word id="22" form="item" lemma="item1" postag="d--------" head="21" relation="AuxZ" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
         <word id="23" form="Labieni" lemma="Labienus1" postag="n-s---mg-" head="21" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
         <word id="24" form="certior" lemma="certus1" postag="a-s---mnc" head="25" relation="PNOM" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
-        <word id="25" form="fiebat" lemma="fio1" postag="v3s-ia---" head="20" relation="PRED_CO" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
+        <word id="25" form="fiebat" lemma="fio1" postag="v3siia---" head="20" relation="PRED_CO" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
         <word id="26" form="omnes" lemma="omnis1" postag="a-p---ma-" head="27" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
         <word id="27" form="Belgas" lemma="Belgae1" postag="n-p---ma-" head="40" relation="SBJ" cite="urn:cts:latinLit:phi0448.phi001:2.1"/>
         <word id="28" form="," lemma="comma1" postag="u--------" head="34" relation="AuxX" cite=""/>
@@ -724,7 +724,7 @@
         <word id="6" form="illis" lemma="ille1" postag="p-p---mb-" head="5" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
         <word id="7" form="initium" lemma="initium1" postag="n-s---nn-" head="9" relation="SBJ" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
         <word id="8" form="transeundi" lemma="transeo1" postag="v-spdang-" head="7" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
-        <word id="9" form="fieret" lemma="fio1" postag="v3s-sa---" head="4" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
+        <word id="9" form="fieret" lemma="fio1" postag="v3sisa---" head="4" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
         <word id="10" form="," lemma="comma1" postag="u--------" head="4" relation="AuxX" cite=""/>
         <word id="11" form="ut" lemma="ut1" postag="c--------" head="14" relation="AuxC" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
         <word id="12" form="impeditos" lemma="impedio1" postag="v-prppma-" head="13" relation="OBJ" cite="urn:cts:latinLit:phi0448.phi001:2.9"/>
@@ -1298,7 +1298,7 @@
         <word id="10" form="silvis" lemma="silva1" postag="n-p---fb-" head="9" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
         <word id="11" form="abditi" lemma="abditus1" postag="a-p---mn-" head="8" relation="ATV" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
         <word id="12" form="latebant" lemma="lateo1" postag="v3piia---" head="7" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
-        <word id="13" form="visa" lemma="video1" postag="v-prp-nn-" head="1" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
+        <word id="13" form="visa" lemma="video1" postag="v-prppnn-" head="1" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
         <word id="14" form="sunt" lemma="sum1" postag="v3ppia---" head="13" relation="AuxV" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
         <word id="15" form="," lemma="comma1" postag="u--------" head="22" relation="AuxX" cite=""/>
         <word id="16" form="quod" lemma="quod1" postag="c--------" head="17" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.18"/>
@@ -1406,7 +1406,7 @@
     <sentence subdoc="2.32" id="66" document_id="urn:cts:latinLit:phi0448.phi001.perseus-lat1" span="Illi0:fecerunt0">
         <word id="1" form="Illi" lemma="ille1" postag="p-p---mn-" head="70" relation="SBJ" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
         <word id="2" form="ante" lemma="ante1" postag="d--------" head="3" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
-        <word id="3" form="inito" lemma="ineo1" postag="v-srpanb-" head="70" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
+        <word id="3" form="inito" lemma="ineo1" postag="v-srppnb-" head="70" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
         <word id="4" form="," lemma="comma1" postag="u--------" head="5" relation="AuxX" cite=""/>
         <word id="5" form="ut" lemma="ut1" postag="c--------" head="3" relation="AuxC" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
         <word id="6" form="intellectum" lemma="intellego1" postag="v-srppnn-" head="5" relation="ADV" cite="urn:cts:latinLit:phi0448.phi001:2.32"/>
