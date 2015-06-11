@@ -1021,7 +1021,7 @@
 		<word id="5" form="virga" lemma="virga1" postag="n-s---fb-" head="4" relation="ADV"/>
 		<word id="6" form="ferrea" lemma="ferreus1" postag="a-s---fb-" head="5" relation="ATR"/>
 		<word id="7" form="tamquam" lemma="tamquam1" postag="d--------" head="10" relation="AuxC"/>
-		<word id="8" form="vas" lemma="vas1" postag="n-s---nn-" head="11" relation="SBJ"/>
+		<word id="8" form="vas" lemma="vas2" postag="n-s---nn-" head="11" relation="SBJ"/>
 		<word id="9" form="figuli" lemma="figulus1" postag="n-s---mg-" head="8" relation="ATR"/>
 		<word id="10" form="confringentur" lemma="confringo1" postag="v3pfip---" head="1" relation="PRED_CO"/>
 	  <word id="11" insertion_id="0010e" form="[0]" artificial="elliptic" head="10" relation="ADV"/>
@@ -2034,7 +2034,7 @@
 		<word id="27" form="et" lemma="et1" postag="c--------" head="31" relation="AuxY"/>
 		<word id="28" form="lingua" lemma="lingua1" postag="n-s---fb-" head="31" relation="ADV_CO"/>
 		<word id="29" form="et" lemma="et1" postag="c--------" head="31" relation="AuxY"/>
-		<word id="30" form="populo" lemma="populus2" postag="n-s---fb-" head="31" relation="ADV_CO"/>
+		<word id="30" form="populo" lemma="populus1" postag="n-s---mb-" head="31" relation="ADV_CO"/>
 		<word id="31" form="et" lemma="et1" postag="c--------" head="24" relation="COORD"/>
 		<word id="32" form="natione" lemma="natio1" postag="n-s---fb-" head="31" relation="ADV_CO"/>
 	</sentence>
@@ -2727,7 +2727,7 @@
 		<word id="13" form="et" lemma="et1" postag="c--------" head="17" relation="AuxY"/>
 		<word id="14" form="tribubus" lemma="tribus1" postag="n-p---fb-" head="17" relation="ATR_CO"/>
 		<word id="15" form="et" lemma="et1" postag="c--------" head="17" relation="AuxY"/>
-		<word id="16" form="populis" lemma="populus2" postag="n-p---fb-" head="17" relation="ATR_CO"/>
+		<word id="16" form="populis" lemma="populus1" postag="n-p---mb-" head="17" relation="ATR_CO"/>
 		<word id="17" form="et" lemma="et1" postag="c--------" head="10" relation="COORD"/>
 		<word id="18" form="linguis" lemma="lingua1" postag="n-p---fb-" head="17" relation="ATR_CO"/>
 		<word id="19" form="stantes" lemma="sto1" postag="v-pppafa-" head="4" relation="ATR"/>
@@ -3767,7 +3767,7 @@
 		<word id="7" form="apertum" lemma="aperio1" postag="v-srppma-" head="6" relation="ATR"/>
 		<word id="8" form="et" lemma="et1" postag="c--------" head="16" relation="AuxY"/>
 		<word id="9" form="posuit" lemma="pono1" postag="v3sria---" head="16" relation="PRED_CO"/>
-		<word id="10" form="pedem" lemma="pedis1" postag="n-s---ma-" head="9" relation="OBJ"/>
+		<word id="10" form="pedem" lemma="pes1" postag="n-s---ma-" head="9" relation="OBJ"/>
 		<word id="11" form="suum" lemma="suus1" postag="a-s---ma-" head="10" relation="ATR"/>
 		<word id="12" form="dextrum" lemma="dexter1" postag="a-s---ma-" head="10" relation="ATR"/>
 		<word id="13" form="supra" lemma="supra1" postag="r--------" head="9" relation="AuxP"/>
@@ -3996,7 +3996,7 @@
 		<word id="5" form="te" lemma="tu1" postag="p-s---ma-" head="7" relation="SBJ"/>
 		<word id="6" form="iterum" lemma="iterum1" postag="d--------" head="7" relation="ADV"/>
 		<word id="7" form="prophetare" lemma="prophetare1" postag="v--pna---" head="4" relation="SBJ"/>
-		<word id="8" form="populis" lemma="populus2" postag="n-p---fd-" head="13" relation="OBJ_CO"/>
+		<word id="8" form="populis" lemma="populus1" postag="n-p---md-" head="13" relation="OBJ_CO"/>
 		<word id="9" form="et" lemma="et1" postag="c--------" head="13" relation="AuxY"/>
 		<word id="10" form="gentibus" lemma="gens1" postag="n-p---fd-" head="13" relation="OBJ_CO"/>
 		<word id="11" form="et" lemma="et1" postag="c--------" head="13" relation="AuxY"/>
@@ -4183,7 +4183,7 @@
 		<word id="1" form="et" lemma="et1" postag="c--------" head="18" relation="AuxY"/>
 		<word id="2" form="videbunt" lemma="video1" postag="v3pfia---" head="18" relation="PRED_CO"/>
 		<word id="3" form="de" lemma="de1" postag="r--------" head="2" relation="AuxP"/>
-		<word id="4" form="populis" lemma="populus2" postag="n-p---fb-" head="9" relation="ADV_CO"/>
+		<word id="4" form="populis" lemma="populus1" postag="n-p---mb-" head="9" relation="ADV_CO"/>
 		<word id="5" form="et" lemma="et1" postag="c--------" head="9" relation="AuxY"/>
 		<word id="6" form="tribubus" lemma="tribus1" postag="n-p---fb-" head="9" relation="ADV_CO"/>
 		<word id="7" form="et" lemma="et1" postag="c--------" head="9" relation="AuxY"/>
@@ -4478,7 +4478,7 @@
 		<word id="10" form="et" lemma="et1" postag="c--------" head="15" relation="AuxY"/>
 		<word id="11" form="luna" lemma="luna1" postag="n-s---fn-" head="22" relation="SBJ"/>
 		<word id="12" form="sub" lemma="sub1" postag="r--------" head="22" relation="AuxP"/>
-		<word id="13" form="pedibus" lemma="pedis1" postag="n-p---fb-" head="12" relation="ADV"/>
+		<word id="13" form="pedibus" lemma="pes1" postag="n-p---mb-" head="12" relation="ADV"/>
 		<word id="14" form="eius" lemma="is1" postag="p-s---fg-" head="13" relation="ATR"/>
 		<word id="15" form="et" lemma="et1" postag="c--------" head="0" relation="COORD"/>
 		<word id="16" form="in" lemma="in1" postag="r--------" head="23" relation="AuxP"/>
@@ -5046,7 +5046,7 @@
 		<word id="18" form="omnem" lemma="omnis1" postag="a-s---fa-" head="19" relation="ATR"/>
 		<word id="19" form="tribum" lemma="tribus1" postag="n-s---fa-" head="24" relation="ATR_CO"/>
 		<word id="20" form="et" lemma="et1" postag="c--------" head="24" relation="AuxY"/>
-		<word id="21" form="populum" lemma="populus2" postag="n-s---fa-" head="24" relation="ATR_CO"/>
+		<word id="21" form="populum" lemma="populus1" postag="n-s---ma-" head="24" relation="ATR_CO"/>
 		<word id="22" form="et" lemma="et1" postag="c--------" head="24" relation="AuxY"/>
 		<word id="23" form="linguam" lemma="lingua1" postag="n-s---fa-" head="24" relation="ATR_CO"/>
 		<word id="24" form="et" lemma="et1" postag="c--------" head="17" relation="COORD"/>
@@ -5446,7 +5446,7 @@
 		<word id="23" form="et" lemma="et1" postag="c--------" head="25" relation="AuxY"/>
 		<word id="24" form="linguam" lemma="lingua1" postag="n-s---fa-" head="25" relation="ADV_CO"/>
 		<word id="25" form="et" lemma="et1" postag="c--------" head="18" relation="COORD"/>
-		<word id="26" form="populum" lemma="populus2" postag="n-s---fa-" head="25" relation="ADV_CO"/>
+		<word id="26" form="populum" lemma="populus1" postag="n-s---ma-" head="25" relation="ADV_CO"/>
 	</sentence>
 	<sentence id="237" document_id="Perseus:text:1999.02.0060" subdoc="book=Apocalypse:chapter=14" span="dicens0:aquarum1">
 		<word id="1" form="dicens" lemma="dico2" postag="v-sppamn-" head="0" relation="ExD"/>

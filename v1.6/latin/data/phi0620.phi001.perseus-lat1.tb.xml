@@ -219,7 +219,7 @@
 		<word id="24" form="et" lemma="et1" postag="c--------" head="1" relation="COORD"/>
 		<word id="25" form="facite" lemma="facio1" postag="v2ppma---" head="24" relation="PRED_CO"/>
 		<word id="26" form="illa" lemma="ille1" postag="p-s---fn-" head="28" relation="SBJ"/>
-		<word id="27" form="meo" lemma="meum1" postag="n-s---nb-" head="29" relation="ATR"/>
+		<word id="27" form="meo" lemma="meus1" postag="a-s---nb-" head="29" relation="ATR"/>
 		<word id="28" form="palleat" lemma="palleo1" postag="v3spsa---" head="25" relation="OBJ"/>
 		<word id="29" form="ore" lemma="os1" postag="n-s---nb-" head="30" relation="ADV"/>
 		<word id="30" form="magis" lemma="magis1" postag="d--------" head="28" relation="ADV"/>
@@ -707,7 +707,7 @@
 		<primary>alexlessie</primary>
 		<primary>sneil01</primary>
 		<secondary>millermo</secondary>
-		<word id="1" form="c" lemma="que1" postag="c--------" head="2" relation="XSEG"/>
+		<word id="1" form="c" lemma="que1" postag="c--------" head="2" relation="XSEG"/><!-- incorrect -->
 		<word id="2" form="ne" lemma="nec1" postag="c--------" head="3" relation="AuxZ"/>
 		<word id="3" form="minus" lemma="parvus1" postag="d--------" head="8" relation="ADV"/>
 		<word id="4" form="assiduis" lemma="assiduus2" postag="a-p---fb-" head="7" relation="ATR"/>
@@ -1586,7 +1586,7 @@
 		<word id="9" form="aut" lemma="aut1" postag="c--------" head="6" relation="COORD"/>
 		<word id="10" form="cur" lemma="cur1" postag="d--------" head="11" relation="ADV"/>
 		<word id="11" form="sim" lemma="sum1" postag="v1spsa---" head="9" relation="OBJ_CO"/>
-		<word id="12" form="toto" lemma="totus2" postag="a-s---nb-" head="13" relation="ATR"/>
+		<word id="12" form="toto" lemma="totus1" postag="a-s---nb-" head="13" relation="ATR"/>
 		<word id="13" form="corpore" lemma="corpus1" postag="n-s---nb-" head="14" relation="ATR"/>
 		<word id="14" form="nullus" lemma="nullus1" postag="a-s---mn-" head="11" relation="PNOM"/>
 		<word id="15" form="ego" lemma="ego1" postag="p-s---mn-" head="11" relation="SBJ"/>
@@ -3988,7 +3988,7 @@
 		<word id="7" form="," lemma="comma1" postag="u--------" head="5" relation="APOS"/>
 		<word id="8" form="ianua" lemma="janua1" postag="n-s---fn-" head="7" relation="SBJ_AP"/>
 		<word id="9" form="Tarpeiae" lemma="Tarpeius1" postag="a-s---fd-" head="11" relation="ATR"/>
-		<word id="10" form="nota" lemma="nota1" postag="n-s---fn-" head="8" relation="ATR"/>
+		<word id="10" form="nota" lemma="notus1" postag="n-s---fn-" head="8" relation="ATR"/>
 		<word id="11" form="pudicitiae" lemma="pudicitia1" postag="n-s---fd-" head="10" relation="OBJ"/>
 	</sentence>
 	<sentence id="216" document_id="urn:cts:latinLit:phi0620.phi001.perseus-lat1" subdoc="1.16" span="cuius0:supplicibus0">
@@ -4286,7 +4286,7 @@
 		<word id="7" form="causa" lemma="causa1" postag="n-s---fn-" head="1" relation="PNOM_ExD_PRED_CO"/>
 		<word id="8" form="doloris" lemma="dolor1" postag="n-s---mg-" head="7" relation="ATR"/>
 		<word id="9" form="," lemma="comma1" postag="u--------" head="10" relation="AuxX"/>
-		<word id="10" form="victa" lemma="vivo1" postag="v-srppfn-" head="5" relation="ATR"/>
+		<word id="10" form="victa" lemma="vinco1" postag="v-srppfn-" head="5" relation="ATR"/>
 		<word id="11" form="meis" lemma="meus1" postag="a-p---nb-" head="16" relation="ATR"/>
 		<word id="12" form="numquam" lemma="numquam1" postag="d--------" head="10" relation="AuxZ"/>
 		<word id="13" form="," lemma="comma1" postag="u--------" head="14" relation="AuxX"/>
@@ -4310,7 +4310,7 @@
 		<word id="10" form="solet" lemma="solo1" postag="v3spsa---" head="7" relation="ATR"/>
 		<word id="11" form="irato" lemma="irascor1" postag="v-srppmb-" head="14" relation="ATR"/>
 		<word id="12" form="dicere" lemma="dico2" postag="v--pna---" head="10" relation="OBJ"/>
-		<word id="13" form="tota" lemma="totus2" postag="a-s---fn-" head="9" relation="ATV"/>
+		<word id="13" form="tota" lemma="totus1" postag="a-s---fn-" head="9" relation="ATV"/>
 		<word id="14" form="loco" lemma="locus1" postag="n-s---mb-" head="12" relation="ADV"/>
 		<word id="15" form="ut" lemma="ut1" postag="c--------" head="12" relation="AuxC"/>
 		<word id="16" form="me" lemma="ego1" postag="p-s---ma-" head="24" relation="SBJ"/>
@@ -4322,7 +4322,7 @@
 		<word id="22" form="sollicitas" lemma="sollicitus1" postag="a-p---fa-" head="25" relation="ATR"/>
 		<word id="23" form="trivio" lemma="trivium1" postag="n-s---nb-" head="24" relation="ADV"/>
 		<word id="24" form="pervigilare" lemma="pervigilo1" postag="v--pna---" head="20" relation="OBJ"/>
-		<word id="25" form="moras" lemma="mora3" postag="n-p---fa-" head="24" relation="OBJ"/>
+		<word id="25" form="moras" lemma="mora1" postag="n-p---fa-" head="24" relation="OBJ"/>
 	</sentence>
 	<sentence id="232" document_id="urn:cts:latinLit:phi0620.phi001.perseus-lat1" subdoc="1.16" span="at1:gradibus0">
 		<primary>alexlessie</primary>
@@ -4521,7 +4521,7 @@
 		<word id="7" form="ocellis" lemma="ocellus1" postag="n-p---mb-" head="6" relation="ADV"/>
 		<word id="8" form="," lemma="comma1" postag="u--------" head="9" relation="AuxX"/>
 		<word id="9" form="que" lemma="que1" postag="c--------" head="2" relation="COORD"/>
-		<word id="10" form="ossa" lemma="ossum1" postag="n-p---na-" head="14" relation="OBJ"/>
+		<word id="10" form="ossa" lemma="os2" postag="n-p---na-" head="14" relation="OBJ"/>
 		<word id="11" form="nulla" lemma="nullus1" postag="a-p---na-" head="10" relation="ATR"/>
 		<word id="12" form="tuo" lemma="tuus1" postag="a-s---mb-" head="15" relation="ATR"/>
 		<word id="13" form="nostra" lemma="noster1" postag="a-p---na-" head="10" relation="ATR"/>
@@ -4609,7 +4609,7 @@
 		<word id="24" form="et" lemma="et1" postag="c--------" head="0" relation="COORD"/>
 		<word id="25" form="tenera" lemma="tener1" postag="a-s---fb-" head="28" relation="ATR"/>
 		<word id="26" form="poneret" lemma="pono1" postag="v3sisa---" head="24" relation="PRED_CO"/>
-		<word id="27" form="ossa" lemma="ossum1" postag="n-p---na-" head="26" relation="OBJ"/>
+		<word id="27" form="ossa" lemma="os2" postag="n-p---na-" head="26" relation="OBJ"/>
 		<word id="28" form="rosa" lemma="rosa1" postag="n-s---fb-" head="26" relation="ADV"/>
 	</sentence>
 	<sentence id="248" document_id="urn:cts:latinLit:phi0620.phi001.perseus-lat1" subdoc="1.17" span="illa1:foret0">
@@ -4617,7 +4617,7 @@
 		<primary>sneil01</primary>
 		<secondary>millermo</secondary>
 		<word id="1" form="illa" lemma="ille1" postag="p-s---fn-" head="4" relation="SBJ"/>
-		<word id="2" form="meum" lemma="meum1" postag="n-s---na-" head="6" relation="ATR"/>
+		<word id="2" form="meum" lemma="meus1" postag="a-s---na-" head="6" relation="ATR"/>
 		<word id="3" form="extremo" lemma="extremus1" postag="a-s---mb-" head="5" relation="ATR"/>
 		<word id="4" form="clamasset" lemma="clamo1" postag="v3slsa---" head="0" relation="PRED"/>
 		<word id="5" form="pulvere" lemma="pulvis1" postag="n-s---mb-" head="4" relation="ADV"/>
@@ -5162,7 +5162,7 @@
 		<word id="1" form="cara" lemma="carus1" postag="a-p---nn-" head="5" relation="PNOM"/>
 		<word id="2" form="tamen" lemma="tamen1" postag="d--------" head="5" relation="AuxY"/>
 		<word id="3" form="lacrimis" lemma="lacrima1" postag="n-p---fd-" head="1" relation="OBJ"/>
-		<word id="4" form="ossa" lemma="ossum1" postag="n-p---nn-" head="5" relation="SBJ"/>
+		<word id="4" form="ossa" lemma="os2" postag="n-p---nn-" head="5" relation="SBJ"/>
 		<word id="5" form="futura" lemma="sum1" postag="v-pfpann-" head="0" relation="PRED"/>
 		<word id="6" form="meis" lemma="meus1" postag="a-p---fd-" head="3" relation="ATR"/>
 	</sentence>
@@ -5771,7 +5771,7 @@
 		<word id="3" form="super" lemma="super2" postag="r--------" head="4" relation="AuxP"/>
 		<word id="4" form="dispersa" lemma="dispergo1" postag="v-prppna-" head="6" relation="ATR"/>
 		<word id="5" form="invenerit" lemma="invenio1" postag="v3srsa---" head="10" relation="ATR"/>
-		<word id="6" form="ossa" lemma="ossum1" postag="n-p---na-" head="5" relation="OBJ"/>
+		<word id="6" form="ossa" lemma="os2" postag="n-p---na-" head="5" relation="OBJ"/>
 		<word id="7" form="montibus" lemma="mons1" postag="n-p---mb-" head="3" relation="ADV"/>
 		<word id="8" form="Etruscis" lemma="Etruscus1" postag="a-p---mb-" head="7" relation="ATR"/>
 		<word id="9" form="," lemma="comma1" postag="u--------" head="2" relation="AuxX"/>
@@ -5849,7 +5849,7 @@
 		<word id="40" form="nullo" lemma="nullus1" postag="a-s---nb-" head="44" relation="ATR"/>
 		<word id="41" form="miseri" lemma="miser1" postag="a-s---mg-" head="43" relation="ATR"/>
 		<word id="42" form="contegis" lemma="contego1" postag="v2spia---" head="38" relation="PRED_CO"/>
-		<word id="43" form="ossa" lemma="ossum1" postag="n-p---na-" head="42" relation="OBJ"/>
+		<word id="43" form="ossa" lemma="os2" postag="n-p---na-" head="42" relation="OBJ"/>
 		<word id="44" form="solo" lemma="solum1" postag="n-s---nb-" head="42" relation="ADV"/>
 		<word id="45" form=")" lemma="RPAREN1" postag="u--------" head="38" relation="AuxG"/>
 		<word id="46" form="," lemma="comma1" postag="u--------" head="1" relation="AuxX"/>
@@ -6538,7 +6538,7 @@
 		<word id="3" form="venturi" lemma="venio1" postag="v-sfpang-" head="6" relation="ATR"/>
 		<word id="4" form="prima" lemma="primus1" postag="a-s---fn-" head="5" relation="ATR"/>
 		<word id="5" form="favilla" lemma="favilla1" postag="n-s---fn-" head="2" relation="PNOM"/>
-		<word id="6" form="mali" lemma="malum2" postag="n-s---ng-" head="5" relation="ATR"/>
+		<word id="6" form="mali" lemma="malum1" postag="n-s---ng-" head="5" relation="ATR"/>
 	</sentence>
 	<sentence id="354" document_id="urn:cts:latinLit:phi0620.phi001.perseus-lat1" subdoc="1.9" span="tum0:tuae0">
 		<primary>alexlessie</primary>
@@ -6643,7 +6643,7 @@
 		<word id="33" form="donec" lemma="donec1" postag="c--------" head="31" relation="AuxC"/>
 		<word id="34" form="manus" lemma="manus1" postag="n-s---fn-" head="35" relation="SBJ"/>
 		<word id="35" form="attigit" lemma="attigo1" postag="v3spia---" head="33" relation="ADV"/>
-		<word id="36" form="ossa" lemma="ossum1" postag="n-p---na-" head="35" relation="OBJ"/>
+		<word id="36" form="ossa" lemma="os2" postag="n-p---na-" head="35" relation="OBJ"/>
 	</sentence>
 	<sentence id="358" document_id="urn:cts:latinLit:phi0620.phi001.perseus-lat1" subdoc="1.9" span="quisquis0:blanditias0">
 		<primary>alexlessie</primary>
@@ -6702,6 +6702,6 @@
 		<word id="4" form="saepe" lemma="saepe1" postag="d--------" head="7" relation="ADV"/>
 		<word id="5" form="in" lemma="in1" postag="r--------" head="3" relation="AuxP"/>
 		<word id="6" form="amore" lemma="amor1" postag="n-s---mb-" head="5" relation="ADV"/>
-		<word id="7" form="levat" lemma="levo2" postag="v3spia---" head="0" relation="PRED"/>
+		<word id="7" form="levat" lemma="levo1" postag="v3spia---" head="0" relation="PRED"/>
 	</sentence>
 </treebank>

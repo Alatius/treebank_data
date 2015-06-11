@@ -433,7 +433,7 @@
         <word id="9" form="rei" lemma="res1" postag="n-s---fg-" head="11" relation="ATR_CO" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
         <word id="10" form="publicae" lemma="publicus1" postag="a-s---fg-" head="9" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
         <word id="11" form="que" lemma="que1" postag="c--------" head="8" relation="COORD" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
-        <word id="12" form="comnlunis" lemma="communis1" postag="a-s---fg-" head="13" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
+        <word id="12" form="communis" lemma="communis1" postag="a-s---fg-" head="13" relation="ATR" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
         <word id="13" form="salutis" lemma="salus1" postag="n-s---fg-" head="11" relation="ATR_CO" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
         <word id="14" form="intersit" lemma="intersum1" postag="v3spsa---" head="6" relation="OBJ" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>
         <word id="15" form="manus" lemma="manus1" postag="n-p---fa-" head="17" relation="SBJ" cite="urn:cts:latinLit:phi0448.phi001:2.5"/>

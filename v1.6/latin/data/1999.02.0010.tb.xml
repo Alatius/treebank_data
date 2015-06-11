@@ -3303,7 +3303,7 @@
 		<word id="7" form="patientiam" lemma="patientia1" postag="n-s---fa-" head="3" relation="OBJ"/>
 		<word id="8" form="famis" lemma="fames1" postag="n-s---fg-" head="11" relation="ATR_CO"/>
 		<word id="9" form="," lemma="comma1" postag="u--------" head="11" relation="AuxX"/>
-		<word id="10" form="frigoris" lemma="frigor1" postag="n-s---mg-" head="11" relation="ATR_CO"/>
+		<word id="10" form="frigoris" lemma="frigus1" postag="n-s---ng-" head="11" relation="ATR_CO"/>
 		<word id="11" form="," lemma="comma1" postag="u--------" head="7" relation="COORD"/>
 		<word id="12" form="inopiae" lemma="inopia1" postag="n-s---fg-" head="11" relation="ATR_CO"/>
 		<word id="13" form="rerum" lemma="res1" postag="n-p---fg-" head="12" relation="ATR"/>
@@ -3895,7 +3895,7 @@
 		<word id="30" form="stirps" lemma="stirps1" postag="n-s---fn-" head="31" relation="SBJ_CO"/>
 		<word id="31" form="ac" lemma="atque1" postag="c--------" head="28" relation="COORD"/>
 		<word id="32" form="semen" lemma="semen1" postag="n-s---nn-" head="31" relation="SBJ_CO"/>
-		<word id="33" form="malorum" lemma="malum2" postag="n-p---ng-" head="31" relation="ATR"/>
+		<word id="33" form="malorum" lemma="malum1" postag="n-p---ng-" head="31" relation="ATR"/>
 		<word id="34" form="omnium" lemma="omnis1" postag="a-p---ng-" head="33" relation="ATR"/>
 	</sentence>
 	<sentence id="191" document_id="Perseus:text:1999.02.0010" subdoc="text=Catil.:Speech=1:chapter=13" span="etenim0:erupit0">
@@ -3960,7 +3960,7 @@
 		<word id="25" form="et" lemma="et1" postag="c--------" head="21" relation="COORD"/>
 		<word id="26" form="erit" lemma="sum1" postag="v3sfia---" head="27" relation="AuxV"/>
 		<word id="27" form="inclusum" lemma="includo1" postag="v-srppnn-" head="25" relation="PRED_CO"/>
-		<word id="28" form="penitus" lemma="adv" postag="d--------" head="27" relation="ADV"/>
+		<word id="28" form="penitus" lemma="penitus3" postag="d--------" head="27" relation="ADV"/>
 		<word id="29" form="in" lemma="in1" postag="r--------" head="31" relation="AuxP"/>
 		<word id="30" form="venis" lemma="vena1" postag="n-p---fb-" head="29" relation="OBJ_CO"/>
 		<word id="31" form="atque" lemma="atque1" postag="c--------" head="27" relation="COORD"/>
@@ -5320,7 +5320,7 @@
 		<word id="6" form="scelerum" lemma="scelus1" postag="n-p---ng-" head="5" relation="ATR_CO"/>
 		<word id="7" form="exercitatione" lemma="exercitatio1" postag="n-s---fb-" head="33" relation="OBJ_CO"/>
 		<word id="8" form="adsuefactus" lemma="assuefacio" postag="v-srppmn-" head="20" relation="ADV"/>
-		<word id="9" form="frigore" lemma="frigor1" postag="n-s---mb-" head="14" relation="SBJ_CO"/>
+		<word id="9" form="frigore" lemma="frigus1" postag="n-s---nb-" head="14" relation="SBJ_CO"/>
 		<word id="10" form="et" lemma="et1" postag="c--------" head="14" relation="AuxY"/>
 		<word id="11" form="fame" lemma="fames1" postag="n-s---fb-" head="14" relation="SBJ_CO"/>
 		<word id="12" form="et" lemma="et1" postag="c--------" head="14" relation="AuxY"/>
@@ -5751,7 +5751,7 @@
 		<word id="4" form="," lemma="comma1" postag="u--------" head="5" relation="AuxX"/>
 		<word id="5" form="cum" lemma="cum1" postag="c--------" head="18" relation="AuxC"/>
 		<word id="6" form="domi" lemma="domus1" postag="n-s---fl-" head="9" relation="ADV"/>
-		<word id="7" form="meae" lemma="meus1" postag="n-s---fl-" head="6" relation="ATR"/>
+		<word id="7" form="meae" lemma="meus1" postag="a-s---fl-" head="6" relation="ATR"/>
 		<word id="8" form="paene" lemma="paene1" postag="d--------" head="9" relation="ADV"/>
 		<word id="9" form="interfectus" lemma="interficio1" postag="v-srppmn-" head="5" relation="ADV"/>
 		<word id="10" form="essem" lemma="sum1" postag="v1sisa---" head="9" relation="AuxV"/>
