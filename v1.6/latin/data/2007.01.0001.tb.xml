@@ -2290,7 +2290,7 @@
 		<word id="2" form="ipse" lemma="ipse1" postag="p-s---mn-" head="10" relation="SBJ"/>
 		<word id="3" form="etiam" lemma="etiam1" postag="d--------" head="10" relation="AuxZ"/>
 		<word id="4" form="taeterrima" lemma="taeter1" postag="a-s---fbs" head="5" relation="ATR"/>
-		<word id="5" form="voice" lemma="vox1" postag="n-s---fb-" head="10" relation="ADV"/>
+		<word id="5" form="voce" lemma="vox1" postag="n-s---fb-" head="10" relation="ADV"/>
 		<word id="6" form="de" lemma="de1" postag="r--------" head="9" relation="AuxP"/>
 		<word id="7" form="Laserpiciario" lemma="laserpiciarius1" postag="a-s---mb-" head="8" relation="ATR"/>
 		<word id="8" form="mimo" lemma="mimus1" postag="n-s---mb-" head="6" relation="ATR"/>
